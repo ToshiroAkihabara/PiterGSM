@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+Parser+of+Data)](https://git.io/typing-svg)
 # Simple parser of data
 
 Realized parser of data from a tech site https://pitergsm.ru.  
