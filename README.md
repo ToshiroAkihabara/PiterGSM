@@ -34,9 +34,6 @@ python piterGSM.py
 ```
 After running the script it'll create a new catalog "json_files" with json files and a new catalog "csv_files" with csv files.
 
-# Contributing
-
-
 # License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
