@@ -10,10 +10,11 @@ Sure, you could to use the script as a sample in your projects.
 
 # Installation
 
-Create the new virtual enviroment .env using following steps:
+Create the new virtual enviroment venv:
 ```
 python -m venv venv
 ```
+Activate installed enviroment:
 ```
 venv\Scripts\activate
 ```
