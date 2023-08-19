@@ -3,8 +3,8 @@
 
 
 The sample an automation Python Script to get of data.
-The script was realised on base an open online [store](https://pitergsm.ru).
 
+The script was realised on base an open online [store](https://pitergsm.ru).
 
 It was get some interesting of data from the site in json and csv files. 
 
