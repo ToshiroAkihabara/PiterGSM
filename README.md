@@ -13,9 +13,10 @@ Sure, you could to use the script as a sample in your projects.
 Create the new virtual enviroment .env using following steps:
 ```
 python -m venv venv
+```
+```
 venv\Scripts\activate
 ```
-
 Use the [pip](https://pip.pypa.io/en/stable/) package manager to install the project dependencies.
 
 ```
