@@ -9,17 +9,19 @@ This README was created to help install and use the script.
 Sure, you could to use the script as a sample in your projects.
 
 # Installation
-
-Create the new virtual enviroment venv on Windows:
+- Clone this repository and install the dependencies:
+```
+git clone https://github.com/ToshiroAkihabara/PiterGSM
+```
+- Create the new virtual enviroment venv on Windows:
 ```
 python -m venv venv
 ```
-Activate the installed enviroment:
+- Activate the installed enviroment:
 ```
 venv\Scripts\activate
 ```
-Use the [pip](https://pip.pypa.io/en/stable/) package manager to install the project dependencies.
-
+- Use the [pip](https://pip.pypa.io/en/stable/) package manager to install the project dependencies.
 ```
 pip install -r requirements.txt
 ```
