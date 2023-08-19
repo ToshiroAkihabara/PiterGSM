@@ -9,12 +9,16 @@ Sure, you could to use the script as a sample in your projects.
 
 # Installation
 
+Create the new virtual enviroment .env using following steps:
+```
+python -m venv venv
+venv\Scripts\activate
+```
+
 Use the [pip](https://pip.pypa.io/en/stable/) package manager to install the project dependencies.
 
 ```
-function test() {
-    console.log("notice the blank line before this function?");
-}
+pip install -r requirements.txt
 ```
 # Usage
 
