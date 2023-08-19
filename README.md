@@ -14,7 +14,7 @@ Create the new virtual enviroment venv:
 ```
 python -m venv venv
 ```
-Activate installed enviroment:
+Activate the installed enviroment:
 ```
 venv\Scripts\activate
 ```
