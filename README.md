@@ -1,4 +1,4 @@
-# PARSER OF DATA
+# Parser of Data
 ![PiterGSM](https://github.com/ToshiroAkihabara/PiterGSM/blob/main/pitergsm.webp)
 
 
