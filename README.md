@@ -33,11 +33,9 @@ Run the main file:
 python piterGSM.py
 ```
 After running the script it'll create a new catalog "json_files" with json files and a new catalog "csv_files" with csv files.
-
 # Feedback
 
 This is my a first project in python. I'll glad to see the feedback.
-
 # License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
