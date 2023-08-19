@@ -11,7 +11,11 @@ Sure, you could to use the script as a sample in your projects.
 
 Use the [pip](https://pip.pypa.io/en/stable/) package manager to install the project dependencies.
 
-
+```
+function test() {
+    console.log("notice the blank line before this function?");
+}
+```
 # Usage
 
 
