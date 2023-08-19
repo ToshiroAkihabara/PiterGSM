@@ -7,18 +7,19 @@ The script was realised on base an open online [store](https://pitergsm.ru).
 This README was created to help install and use the script.
 Sure, you
 
-# INSTALLATION
+# Installation
 
 
-# USAGE
+# Usage
 
 
 
 # Contributing
 
 
-# LICENSE
+# License
 
+[MIT License](https://choosealicense.com/licenses/mit/)
 It was get some interesting of data from the site in json and csv files. 
 
 You could to change it for youself or just use it in other projects. 
