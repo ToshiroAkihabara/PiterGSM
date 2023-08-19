@@ -1,4 +1,4 @@
-# Parser
+# ParserofData
 
 Realized parser of data from a tech site https://pitergsm.ru.  
 
