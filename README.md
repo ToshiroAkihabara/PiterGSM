@@ -14,7 +14,7 @@ Clone this repository and install the dependencies:
 ```
 git clone https://github.com/ToshiroAkihabara/PiterGSM
 ```
-Open the repository and create the new virtual enviroment on Windows:
+Open the repository and create a new virtual enviroment on Windows:
 ```
 python -m venv venv
 ```
