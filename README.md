@@ -10,6 +10,7 @@ Sure, you could to use the script as a sample in your projects.
 
 # Installation
 
+Use the pip packege manager to install the project dependencies.
 
 # Usage
 
