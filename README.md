@@ -8,9 +8,9 @@ The script was realised on base an open online [store](https://pitergsm.ru).
 This README was created to help install and use the script.
 Sure, you could to use the script as a sample in your projects.
 
-# Installation (Windows)
+# Installation
 
-Create the new virtual enviroment venv:
+Create the new virtual enviroment venv on Windows:
 ```
 python -m venv venv
 ```
