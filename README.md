@@ -27,7 +27,10 @@ pip install -r requirements.txt
 ```
 # Usage
 
-
+Run the main file: 
+```
+python piterGSM.py
+```
 
 # Contributing
 
