@@ -13,6 +13,7 @@ Sure, you could to use the script as a sample in your projects.
 ```
 git clone https://github.com/ToshiroAkihabara/PiterGSM
 ```
+- Open the repository.
 - Create the new virtual enviroment on Windows:
 ```
 python -m venv venv
