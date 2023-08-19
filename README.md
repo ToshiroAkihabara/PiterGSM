@@ -5,7 +5,7 @@
 The sample an automation Python Script to get of data.
 The script was realised on base an open online [store](https://pitergsm.ru).
 This README was created to help install and use the script.
-Sure, you
+Sure, you could to use the script as a sample in your projects.
 
 # Installation
 
