@@ -1,5 +1,4 @@
 # Simple parser of data
-
 ---
 
 Realized parser of data from a tech site https://pitergsm.ru.  
