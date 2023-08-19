@@ -11,7 +11,7 @@ Sure, you could to use the script as a sample in your projects.
 # Installation
 
 Use the [pip](https://pip.pypa.io/en/stable/) package manager to install the project dependencies.
-pip install -r requirements.txt
+
 
 # Usage
 
