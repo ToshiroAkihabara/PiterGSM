@@ -11,25 +11,20 @@ Sure, you could to use the script as a sample in your projects.
 
 Clone this repository and install the dependencies:
 ```
-git clone https://github.com/ToshiroAkihabara/PiterGSM
+$ git clone https://github.com/ToshiroAkihabara/PiterGSM
 ```
-Open the repository and create a new virtual enviroment on Windows:
+Create, a new virtual enviroment, activate it for Windows, Linux & MacOS and install required dependencies:
 ```
-python -m venv venv
-```
-Activate the virtual enviroment:
-```
-venv\Scripts\activate
-```
-Use the [pip](https://pip.pypa.io/en/stable/) package manager to install the project dependencies.
-```
-pip install -r requirements.txt
+$ python -m venv venv
+$ venv\Scripts\activate
+$ source venv/bin/activate
+$ pip install -r requirements.txt
 ```
 # Usage
 
 Run the main file: 
 ```
-python piterGSM.py
+$ python piterGSM.py
 ```
 After running the script it'll create a new catalog "json_files" with json files and a new catalog "csv_files" with csv files.
 # Feedback
